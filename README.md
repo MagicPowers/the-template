@@ -6,3 +6,7 @@
 
 For details, see the complete template documentation [here](https://gitpitch.com/docs/the-template).
 
+# Testing it out to see if I could use this
+
+Seems like a cool idea so far!
+
